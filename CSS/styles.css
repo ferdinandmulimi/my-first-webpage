@@ -15,15 +15,3 @@ div{
    width: 250px;
     margin-right: 33%;
 }
-
-#imground{
-    border-end-end-radius: 30%;
-}
-body{
-    font-family: sans-serif;
-}
-@media screen and (max-width:700px) {
-    .column {
-        width: 100%;
-    }
-}
